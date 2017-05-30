@@ -1,0 +1,1 @@
+Completion of the Udacity Deep Learning Foundation Nanodegree Project 5. Used DCGAN to generate MNIST digits and faces.
